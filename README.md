@@ -10,3 +10,6 @@ Be part of innovation is awesome! ✨
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+## Most used languages 🤖
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicochess&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/Nicochess/github-readme-stats)
