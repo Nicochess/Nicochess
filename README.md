@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Nicochess/Nicochess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Tech Skills
+# Hello there 👋
+My name is Nicolas Magno, I'm a front-end developer. 👨‍💻
+Completely passionate about tech and how this can change every around us.
+To me be part of innovation is awesome! ✨
+
+
+## Tech Skills 🧠
