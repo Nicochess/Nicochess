@@ -9,8 +9,7 @@ Be part of innovation is awesome! ✨
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Most used languages 🤖
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicochess&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/Nicochess/github-readme-stats)
