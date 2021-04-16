@@ -1,8 +1,13 @@
-# Hello there 👋
-My name is Nicolas, I'm a front-end developer. 👨‍💻  
+
+<img src="https://user-images.githubusercontent.com/66505477/114955647-8497e580-9e33-11eb-8d5d-1ee89b252d13.png" width="55%" align="right">
+
+
+## Hello ✌
+
+My name is Nicolas, I'm a front-end developer.👨‍💻  
 Completly passionate about tech and how this can change everything around us.  
-Be part of innovation is awesome! ✨  
-A real fan of Alice in Chains. 🕷🤟
+Be part of innovation is awesome!✨  
+A real fan of Alice in Chains.🕷🤟
 
 ## Tech Skills 🧠
 
