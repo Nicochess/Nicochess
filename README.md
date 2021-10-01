@@ -8,7 +8,7 @@ My name is Nicolas, I'm a problem solver or developer. 👨‍💻
 I'm always trying to learn new things to improve my stuffs.
 Completly passionate about tech and how this can change everything around us.  
 Be part of innovation is something really awesome!✨  
-A real fan of Alice in Chains.🕷🤟
+A real fan of Hunter x Hunter. 🕷
 
 ## Tech Skills 🧠
 
