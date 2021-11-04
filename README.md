@@ -19,5 +19,9 @@ A real fan of Hunter x Hunter. 🕷
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## Codewars 🐱‍👤
+
+![CodeWars](https://www.codewars.com/users/Nicochess/badges/large)
+
 ## Most used languages 🤖
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicochess&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/Nicochess/github-readme-stats)
