@@ -18,6 +18,7 @@ A real fan of Hunter x Hunter. 🕷
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Most used languages 🤖
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicochess&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/Nicochess/github-readme-stats)
