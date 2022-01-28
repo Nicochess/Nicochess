@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 🎈</h1>
 <p align="center">My name is Nicolas, I'm a problem solver.<br> 
 Always trying to learn new things to improve my stuffs.<br>
-  I really appreciate a good challenge, so I play <b>Codewars</b> a lot, pushing my self through questions to grow my knowledge in <b>algorihtms</b> and <b>data structure</b>.<br><br>
+  I really appreciate a good challenge, so I play <b>Codewars</b> a lot, pushing <br> my self through questions to grow my knowledge in <b>algorihtms</b> and <b>data structure</b>.<br><br>
 <img src="https://www.codewars.com/users/Nicochess/badges/large" width="40%"><br><br><i>You can build anything with technology, even a better future</i></p>
 
 <img src="./banner.webp" width="100%" align="center">
