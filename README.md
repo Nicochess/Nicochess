@@ -1,5 +1,11 @@
+<h1 align="center"> Hi 🎈</h1>
+<p align="center">My name is Nicolas, I'm a problem solver.<br> 
+Always trying to learn new things to improve my stuffs.<br>
+  I really appreciate a good challenge, so I play <b>Codewars</b> a lot, pushing my self through questions to grow my knowledge in <b>algorihtms</b> and <b>data structure</b>.<br><br>
+<img src="https://www.codewars.com/users/Nicochess/badges/large" width="40%"><br><br><i>You can build anything with technology, even a better future</i></p>
+
 <img src="./banner.webp" width="100%" align="center">
-<p align="center"><i><strong>You can build anything with technology, even a better future.</strong></i></p>
+
 <h3 align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
