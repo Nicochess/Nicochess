@@ -16,6 +16,7 @@ Always trying to learn new things to improve my stuffs.<br>
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </h3>
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicochess&hide=html&layout=compact&theme=gruvbox&langs_count=10" width="38%" align="center">
