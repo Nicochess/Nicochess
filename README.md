@@ -6,6 +6,8 @@ Here it is a list of my tech skills:
 
 **Front End**: HTML5; CSS: SCSS, BEM, CSS in JS; JavaScript: ReactJS,
 TypeScript. Rest API. Testing: Cypress, Jest.  
-**Back End**: JavaScript: Node, Express JS, Firebase, Mongo DB.  
+**Back End**: Node, Express JS, Firebase, Mongo DB.  
 **Blockchain**: Solidity.  
 **CyberSecurity**: Web Hacking.  
+
+I'm currently studying Vue Framework in order to expand my knowledge related to Front End Development.
