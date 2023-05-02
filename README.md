@@ -1,7 +1,7 @@
 ### Hi!
 
 <p>
-  <img width="450px" align="right" src="https://user-images.githubusercontent.com/66505477/235739568-ff9b5816-e460-444c-9a08-5f06c3cf60ad.png">
+  <img width="400px" align="right" src="https://user-images.githubusercontent.com/66505477/235744561-be843a4b-dc3b-4302-b767-a9ce8a8bfde5.png">
   <p align="left">
 My name is Nicolas, I'm a problem solver by nature and technical problem solver by determination.  
 Talking about my professional background, I'm currently working with Front End Development using React JS and  
