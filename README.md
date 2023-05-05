@@ -5,7 +5,7 @@
   <p align="left">
 My name is Nicolas, I'm a problem solver by nature and technical problem solver by determination.  
 Talking about my professional background, I'm currently working with Front End Development using React JS and  
-I have been on the field for 2 years.  
+I have been on the field for 2 years. On my free time I like to hacking into websites, in order to make them more secure.
 Here it is a list of my tech skills:
 
 **Front End**: HTML5; CSS: SCSS, BEM, CSS in JS; JavaScript: ReactJS,
