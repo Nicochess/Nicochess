@@ -10,7 +10,7 @@ Interesting me a lot how computer works, so you can see me always trying to get 
 
 My tech skills:
 
-**Front End**: HTML5; CSS: SCSS, CSS in JS; JavaScript: ReactJS, VueJS
+**Front End**: HTML5; CSS: SCSS, CSS in JS; JavaScript: ReactJS, VueJS,  
 TypeScript, Next JS. Rest API and GraphQL. Testing: Cypress, Jest.  
 **Back End**: Node, Express JS, Firebase, Mongo DB.  
 **Blockchain**: Solidity.  
