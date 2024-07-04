@@ -16,7 +16,7 @@ TypeScript, Next JS. Rest API and GraphQL. Testing: Cypress, Jest.
 **Blockchain**: Solidity.  
 **CyberSecurity**: Web Hacking.    
 
-Learning about React Native to enrich my knowledge on Mobile Development.
+Learning about React Native, Android and Flutter to enrich my knowledge on Mobile Development.
     
 *"Live as if you were to die tomorrow. Learn as if you were to live forever."  
 Mahatma Gandhi*
